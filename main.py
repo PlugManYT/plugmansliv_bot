@@ -13,7 +13,7 @@ from aiogram.utils.text_decorations import html_decoration as hd
 # ================= КОНФИГУРАЦИЯ =================
 
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  
-ADMIN_ID = 6796608783
+ADMIN_ID = 
 CHANNEL_ID = -1003237202237
 CHANNEL_USERNAME = "plugmansliv"
 CHANNEL_ID_2 = -1003354139532      
